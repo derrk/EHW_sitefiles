@@ -1,0 +1,38 @@
+/* CSS HEX
+-- Color Palette Matching Logo sent for website
+*/
+--vista-white: #f8f1ed;
+--zeus: #1e1914;
+--laser: #cab16e;
+--brandy: #dcc58e;
+--azalea: #f8cbc5;
+--sand-dune: #826e5d;
+--dawn: #9f9c93;
+--indian-khaki: #c4a98f;
+--xanadu: #748c7c;
+
+
+/* SCSS HEX */
+$vista-white: #f8f1ed;
+$zeus: #1e1914;
+$laser: #cab16e;
+$brandy: #dcc58e;
+$azalea: #f8cbc5;
+$sand-dune: #826e5d;
+$dawn: #9f9c93;
+$indian-khaki: #c4a98f;
+$xanadu: #748c7c;
+
+
+/* SCSS RGB */
+--vista-white: rgba(248,241,237,1);
+--zeus: rgba(30,25,20,1);
+--laser: rgba(202,177,110,1);
+--brandy: rgba(220,197,142,1);
+--azalea: rgba(248,203,197,1);
+--sand-dune: rgba(130,110,93,1);
+--dawn: rgba(159,156,147,1);
+--indian-khaki: rgba(196,169,143,1);
+--xanadu: rgba(116,140,124,1);
+
+
